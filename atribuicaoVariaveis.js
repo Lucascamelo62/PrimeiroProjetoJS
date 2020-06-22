@@ -6,6 +6,6 @@ const sobrenome = "Camelo"
 console.log(nome + " " + sobrenome);
 console.log(nome, sobrenome);
 
-const nomeNovo = nome, sobrenome;
+const nomeNovo = nome + sobrenome;
 
 console.log(nomeNovo);
