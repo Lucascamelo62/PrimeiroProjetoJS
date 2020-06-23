@@ -11,7 +11,7 @@ if(idadeCliente >= 18){
 } else if(estaAcompanhada == true){
     destinoDeViagens.splice(1,1);
 } else{
-    console.log("Compra permitida apenas para maiores de 18 ou acompanhado do responsável");
+    console.log("Compra permitida apenas para maiores de 18 ou acompanhado do responsável.");
 }
 
 console.log(destinoDeViagens);
