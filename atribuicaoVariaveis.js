@@ -9,3 +9,7 @@ console.log(nome, sobrenome);
 const nomeNovo = nome + sobrenome;
 
 console.log(nomeNovo);
+
+let idade;
+idade = 36;
+console.log(idade);
