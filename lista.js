@@ -11,5 +11,4 @@ listaDeDestinos.forEach(function(item, indice, array){
     console.log(item, indice);
 });
 
-const posicao = listaDeDestinos.indexOf("Fortaleza");
-console.log(posicao);
+
