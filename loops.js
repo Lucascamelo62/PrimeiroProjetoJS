@@ -25,7 +25,6 @@ for(contador = 0; contador < destinoDeViagens.length; contador ++){
         break;
     }
 }
-
-console.log("Destino Existe: " + destinoExistente);  
+console.log("Destino Existente: " + destinoExistente);  
 console.log(destinoDeViagens);
 

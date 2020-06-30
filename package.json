@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do ByteBank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucascamelo62/PrimeiroProjetoJS.git"
+  },
+  "author": "Camelo",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Lucascamelo62/PrimeiroProjetoJS/issues"
+  },
+  "homepage": "https://github.com/Lucascamelo62/PrimeiroProjetoJS#readme"
+}
