@@ -22,7 +22,7 @@ let contador = 0;
 for(contador = 0; contador < destinoDeViagens.length; contador ++){
     if(destinoDeViagens[contador] == destino){
         destinoExistente = true;
-        break;
+       // break;
     }
 }
 console.log("Destino Existente: " + destinoExistente);  
